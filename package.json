@@ -1,0 +1,24 @@
+{
+  "name": "react-email-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export": "ts-node src/export.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@react-email/components": "1.0.8",
+    "@react-email/render": "2.0.4",
+    "@types/node": "25.3.0",
+    "@types/react": "19.2.14",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "ts-node": "10.9.2",
+    "typescript": "5.9.3"
+  }
+}
